@@ -5,11 +5,9 @@ title: "Homepage"
 
 # Welcome to Xuan Zhou's Personal Website
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <!-- 照片部分 -->
     <div>
         <img src="/个人证件照.jpg" alt="Your Photo" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
     </div>
-    <!-- 联系方式部分 -->
     <div style="text-align: right;">
         <h2>Contact</h2>
         <p><a href="mailto:zhouxuan1112@chd.edu.cn">Email</a></p>
