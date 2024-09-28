@@ -4,7 +4,21 @@ title: "Homepage"
 ---
 
 # Welcome to Xuan Zhou's Personal Website
+<div style="display: flex; align-items: center;">
+    <!-- 左侧照片 -->
+    <img src="个人证件照.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
 
+    <!-- 右侧联系方式 -->
+    <div style="margin-left: 20px;">
+        <h3>Contact</h3>
+        <p>
+            📧 [Email](mailto:zhouxuan1112@chd.edu.cn) <br>
+            🔗 [GitHub](https://github.com/zhouxuan.github.io)
+        </p>
+    </div>
+</div>
+
+---
 I am pursuing a Ph.D. at the School of Traffic and Transportation Engineering at Chang'an University, Xi'an, China.  
 I received my Bachelor's Degree in Traffic Engineering from Qingdao University of Technology.  
 My strong passion for traffic safety and driver behavior has shaped my academic journey. I am fortunate to work under the supervision of YingYan, who has provided invaluable guidance in my research development.
