@@ -5,16 +5,15 @@ title: "Homepage"
 
 # Welcome to Xuan Zhou's Personal Website
 <div style="display: flex; align-items: center;">
-    <!-- 左侧照片 -->
-    <img src="个人证件照.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-
-    <!-- 右侧联系方式 -->
-    <div style="margin-left: 20px;">
-        <h3>Contact</h3>
-        <p>
-            📧 [Email](mailto:zhouxuan1112@chd.edu.cn) <br>
-            🔗 [GitHub](https://github.com/zhouxuan.github.io)
-        </p>
+    <!-- 添加照片 -->
+    <div>
+        <img src="你的照片链接或文件路径" alt="Your Photo" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
+    </div>
+    <!-- 添加联系方式 -->
+    <div>
+        <h2>Contact</h2>
+        <p><a href="mailto:zhouxuan1112@chd.edu.cn">Email</a></p>
+        <p><a href="https://github.com/zhouxuan.github.io">GitHub</a></p>
     </div>
 </div>
 
@@ -41,6 +40,4 @@ My strong passion for traffic safety and driver behavior has shaped my academic 
 - 2023 Graduate Student Scientific Research Innovation and Practice Project, Chang'an University.
 - 2022 Finalist Award in the Northwest Regional Finals of the 6th Changzhou College Student Innovation and Entrepreneurship Competition.
 
-## 📧 Contact
-- [Email](mailto:zhouxuan1112@chd.edu.cn)  
-- [GitHub](https://github.com/zhouxuan.github.io)
+
