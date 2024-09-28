@@ -24,9 +24,9 @@ I received my Bachelor's Degree in Traffic Engineering from Qingdao University o
 My strong passion for traffic safety and driver behavior has shaped my academic journey. I am fortunate to work under the supervision of YingYan, who has provided invaluable guidance in my research development.
 
 ## 🏫 Educations
-- 2024.9-present**: Ph.D. in Traffic and Transportation Engineering, Chang'an University, Xi'an, China.  
-- 2022-2024**: M.S. in Traffic and Transportation Engineering, Chang'an University, Xi'an, China.  
-- 2018-2022**: B.S. in Traffic Engineering, Qingdao University of Technology, Qingdao, China.  
+- 2024.9-present: Ph.D. in Traffic and Transportation Engineering, Chang'an University, Xi'an, China.  
+- 2022-2024: M.S. in Traffic and Transportation Engineering, Chang'an University, Xi'an, China.  
+- 2018-2022: B.S. in Traffic Engineering, Qingdao University of Technology, Qingdao, China.  
 
 ## 📜 Publications
 
