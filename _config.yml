@@ -1,3 +1,6 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+title: "Your Website Title"
+description: "Xuan Zhou is currently pursuing the M.S. degree in traffic and transportation engineering with the School of Transportation Engineering, Chang'an University, Xi'an, China. Her research interests include computer vision and intelligent transportation systems. "
